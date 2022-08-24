@@ -1,0 +1,32 @@
+.services{
+    margin: 120px 0;
+}
+.services h5{
+    color: var(--color_primary);
+}
+.services .cart{
+    text-align: center;
+    margin-top: 50px;
+}
+.services .cart h4{
+    margin: 20px 0;
+}
+.services .services-cart{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 15px;
+}
+.services .content{
+    width: 450px;
+    margin: 0 auto;
+}
+.services .content p{
+    margin: 30px 0;
+}
+.services .content img{
+    width: 100%;
+    border-radius: 10px;
+}
+.services .dental-care{
+    margin-top: 180px;
+}

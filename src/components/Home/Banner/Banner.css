@@ -1,0 +1,13 @@
+.item{
+    background: var(--main_rgb_color);
+    padding: 30px 20px;
+    border-radius: 10px;
+    color: #fff;
+}
+.item .icon{
+    font-size: 50px;
+    margin-right: 20px;
+}
+.items{
+    background: var(--color_dark);
+}

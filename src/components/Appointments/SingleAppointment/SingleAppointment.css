@@ -1,0 +1,10 @@
+
+.single-appointment .text {
+    padding: 30px;
+    box-shadow: -5px 5px 20px rgb(234, 234, 234);
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.single-appointment .text h2{
+    color: var(--color_primary);
+}

@@ -1,0 +1,9 @@
+.title{
+    color: var(--color_primary)
+}
+.popup-form{
+    width: 500px;
+}
+.popup-form span{
+    color: red;
+}

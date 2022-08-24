@@ -1,0 +1,5 @@
+.appointmentByDate h2{
+    text-align: center;
+    color: var(--color_primary);
+    margin-top: 50px;
+}

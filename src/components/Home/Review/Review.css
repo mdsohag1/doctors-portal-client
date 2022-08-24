@@ -1,0 +1,18 @@
+.review h4{
+    color: var(--color_primary);
+    margin-top: 100px;
+}
+.review .row{
+    margin: 80px 0;
+}
+.review .cart {
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+.review .cart img{
+    width: 50px;
+    border: 2px solid var(--color_primary);
+    border-radius: 50px;
+    margin-right: 20px;
+}

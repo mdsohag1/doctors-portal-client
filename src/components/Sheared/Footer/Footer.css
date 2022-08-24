@@ -1,0 +1,15 @@
+.footer{
+    background: url('../../../images/footer.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.footer h5{
+    color: var(--color_primary);
+    margin-bottom: 20px;
+}
+.copy{
+    color: var(--color_dark);
+    margin-top: 50px;
+}

@@ -1,0 +1,16 @@
+.custom-btn{
+    background: var(--main_rgb_color);
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .custom-btn:hover{
+    background: var(--color_secondary);
+    box-shadow: 1px 5px 10px lightgray;
+  }
+  

@@ -1,0 +1,21 @@
+.doctor-banner{
+    background: url('../../../images/appointment.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 530px;
+    margin-top: 200px;
+}
+.doctor-banner .row img{
+    position: relative;
+    top: -120px;
+}
+.doctor-banner .cart{
+    color: #fff;
+}
+.doctor-banner .cart h4{
+    color: var(--color_primary);
+    margin-bottom: 30px;
+}
+.doctor-banner .cart p{
+    margin: 30px 0;
+}

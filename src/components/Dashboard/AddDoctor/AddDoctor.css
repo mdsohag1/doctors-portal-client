@@ -1,0 +1,11 @@
+.doctor h2{
+    color: var(--color_primary);
+    margin: 20px 50px;
+}
+.doctor {
+    width: 70%;
+    margin: 0 auto;
+}
+.doctor form input{
+    height: 40px;
+}

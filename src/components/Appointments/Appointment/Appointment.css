@@ -1,0 +1,31 @@
+.appoint {
+    background: url('../../../images/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+    margin-bottom: 100px;
+}
+
+.appoint .img img {
+    width: 100%;
+}
+.appointSection{
+    margin-bottom: 80px;
+}
+.appointSection h1 {
+    color: var(--color_secondary)
+}
+.appointSection h4 {
+    color: var(--color_dark)
+}
+.appointSection h1{
+    margin-bottom: 20px;
+}
+.main-calendar{
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+    bottom: -100px;
+    box-shadow: 5px 10px 50px lightgray;
+}

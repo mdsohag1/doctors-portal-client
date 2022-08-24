@@ -1,0 +1,32 @@
+.sideNav{
+    background: linear-gradient(to bottom, #19D3AE, #0FCFEC);
+    height: 100vh;
+    padding: 100px 40px;
+    position: relative;
+    left: 0;
+}
+.head-text{
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.head-text span {
+    font-size: 25px;
+    color: #fff;
+}
+.head-text h4{
+    font-size: 22px;
+    color: #fff;
+    margin-left: 15px;
+}
+.rightSide{
+    width: 80%;
+    position: relative;
+    right: 0;
+}
+.rightSide .calendar{
+    box-shadow: 5px 10px 50px lightgray;
+    border-radius: 10px;
+    width: 500px;
+    margin: 100px auto;
+    padding: 30px;
+}
